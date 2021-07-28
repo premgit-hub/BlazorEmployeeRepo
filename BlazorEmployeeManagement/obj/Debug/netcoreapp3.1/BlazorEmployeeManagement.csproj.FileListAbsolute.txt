@@ -47,3 +47,6 @@ C:\Users\admin\source\repos\BlazorEmployeeManagement\BlazorEmployeeManagement\ob
 C:\Users\admin\source\repos\BlazorEmployeeManagement\BlazorEmployeeManagement\obj\Debug\netcoreapp3.1\BlazorEmployeeManagement.csproj.CopyComplete
 C:\Users\admin\source\repos\BlazorEmployeeManagement\BlazorEmployeeManagement\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmployeeList.razor.g.cs
 C:\Users\admin\source\repos\BlazorEmployeeManagement\BlazorEmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeList.razor.g.cs
+C:\Users\admin\source\repos\BlazorEmployeeManagement\BlazorEmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.dll
+C:\Users\admin\source\repos\BlazorEmployeeManagement\BlazorEmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.pdb
+C:\Users\admin\source\repos\BlazorEmployeeManagement\BlazorEmployeeManagement\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
